@@ -3,7 +3,21 @@ body {
   background: #80ced6;
   color: white;
   text-align: center;
-  font-size: 25px;
+}
+#title, {
+  color: solid light blue;
+}
+
+#div1, #div3, #div5{
+  font-size: 18px;
+  border: 5px solid white;
+  background: #FF6347;
+
+}
+
+#div2, #div4 {
+  font-size: 18px;
+  border: 5px solid white;
 }
 
 #link1 {
@@ -14,8 +28,4 @@ body {
   cursor: pointer;
   text-align: center;
   color: coral;
-}
-
-#div1 {
-  background: #FFFFFF;
 }

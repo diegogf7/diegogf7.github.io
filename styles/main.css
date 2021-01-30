@@ -3,31 +3,19 @@ body {
   background: #80ced6;
   color: white;
   text-align: center;
-}
-#title, {
-  color: solid light blue;
-}
-
-#div1, #div3, #div5{
-  font-size: 18px;
-  border: 5px solid white;
-  background: #FF6347;
-
-}
-
-#div2, #div4 {
-  font-size: 18px;
-  border: 5px solid white;
+  font-size: 25px;
 }
 
 #link1 {
-  display: circle;
   width: 50%;
-  border: none;
   background-color: #FFFFFF;
   padding: 14px 28px;
   font-size: 18px;
   cursor: pointer;
   text-align: center;
   color: coral;
+}
+
+#div1 {
+  background: #FFFFFF;
 }
