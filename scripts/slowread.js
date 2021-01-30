@@ -2,6 +2,7 @@ var go = $('#go');
 
 go.click(function(e){
   e.preventDefault();
+  console.log("button pressed");
   startWrap();
 });
 
