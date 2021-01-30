@@ -1,0 +1,15 @@
+body {
+  font-family: Times New Roman;
+  color: black;
+  text-align: center;
+}
+
+#link1, #link2, #link3, #link4, #link5 {
+   width: 50%;
+  background-color: #80ced6;
+  padding: 14px 28px;
+  font-size: 18px;
+  cursor: pointer;
+  text-align: center;
+  color: coral;
+}
