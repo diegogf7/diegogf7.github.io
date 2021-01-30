@@ -24,6 +24,9 @@ body {
 
 #div3 {
   background: #FFFFFF;
-  color: black;
   font-size: 25px;
+}
+
+#text {
+  color: black;
 }
