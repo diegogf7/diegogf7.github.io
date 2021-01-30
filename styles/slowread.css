@@ -1,0 +1,22 @@
+body {
+  font-family: system-ui;
+  background: #80ced6;
+  color: white;
+  text-align: center;
+  font-size: 18px;
+}
+
+#div2 {
+  font-size: 18px;
+  border: 5px solid white;
+}
+
+#div1, #div3 {
+    font-size: 18px;
+  border: 5px solid white;
+  background: #FF6347;
+}
+
+#speed, #go, #stop, #next {
+  font-size: 18px;
+}
