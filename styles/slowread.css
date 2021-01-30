@@ -11,7 +11,7 @@ body {
   border: 5px solid white;
 }
 
-#div1, #div3 {
+#div1 {
     font-size: 18px;
   border: 5px solid white;
   background: #FF6347;
@@ -19,4 +19,10 @@ body {
 
 #speed, #go, #stop, #next {
   font-size: 18px;
+}
+
+#div3 {
+  background: #FFFFFF;
+  font-color: black;
+  font-size: 25px;
 }
