@@ -1,7 +1,12 @@
 body {
   font-family: Times New Roman;
   background: #80ced6;
-  color: white;
-  text-align: center;
-  font-size: 25px;
+}
+
+#div1 {
+  text-align: right;
+}
+
+#div2 {
+  text-align: left;
 }
