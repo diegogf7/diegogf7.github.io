@@ -10,3 +10,8 @@ body {
 #div2 {
   text-align: left;
 }
+
+#link1, #link2 {
+  height: 30px;
+  width: 70px;
+}
