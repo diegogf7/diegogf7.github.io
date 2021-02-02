@@ -1,6 +1,6 @@
 body {
   font-family: Merryweather;
-  background: #80ced6;
+  background: #FF6347;
   text-align: center; Tahoma;
   font-size: 30px;
 }
@@ -12,12 +12,8 @@ body {
 
 #div1 {
   text-align: center;
-  margin-right: 150px;
 }
 
-#h21 {
-  font-weight: 700;
-}
 
 #div2 {
   background: #FFFFFF;
