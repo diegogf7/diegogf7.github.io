@@ -2,9 +2,5 @@ body {
   font-family: Times New Roman;
   background: #80ced6;
   text-align: center;
-}
-
-#link1, #link2 {
-  height: 30px;
-  width: 70px;
+  font-size: 30px;
 }
