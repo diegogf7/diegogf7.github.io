@@ -24,7 +24,7 @@ $(document).ready(function(){
       if(loopCount == pos){
         setTimeout(function(){;
           // bold current word
-          textArray[pos] = '<b>'+textArray[pos]+'</b>';
+          textArray[pos] = '<mark>'+textArray[pos]+'</mark>';
 
           // unbold previous word
           if(pos < arrCount && pos > 0){
