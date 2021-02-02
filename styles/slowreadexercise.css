@@ -1,0 +1,10 @@
+#text {
+  font-weight: bold;
+}
+
+mark {
+  border-radius: 5px;
+  padding: 7px 5px 7px 5px;
+  background: #0388fc;
+  color: white;
+}
