@@ -9,3 +9,7 @@ body {
   font-size: 100px;
   font-weight: 700;
 }
+
+#div1 {
+  background-image: url(index-picture1.jpg);
+}
