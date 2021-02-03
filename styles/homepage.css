@@ -1,6 +1,10 @@
 body {
   font-family: system-ui;
   background: #FF6347;
-  text-align: center;
   font-size: 30px;
+}
+
+#card1 {
+  text-align: left;
+  margin-left: 300px;
 }
