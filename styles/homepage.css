@@ -4,3 +4,7 @@ body {
   font-size: 30px;
   text-align: center;
 }
+
+#card1, #card2, #card3, #card4, #card5 {
+  text-align: center;
+}
