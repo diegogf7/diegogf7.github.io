@@ -2,6 +2,7 @@ body {
   font-family: system-ui;
   background: #FF6347;
   font-size: 30px;
+  text-align: center;
 }
 
 #card1 {
