@@ -5,6 +5,10 @@ body {
   text-align: center;
 }
 
-#card1, #card2, #card3, #card4, #card5 {
-  text-align: center;
+#div1, #div3, #div5 {
+  background: #FFFFFF;
+}
+
+#div2, #div4 {
+  background: #FF6347;
 }
