@@ -1,7 +1,7 @@
 body {
   font-family: Arial;
   background: #FF6347;
-  text-align: center; Tahoma;
+  text-align: center;
   font-size: 30px;
 }
 
@@ -13,5 +13,12 @@ mark {
   border-radius: 5px;
   padding: 7px 5px 7px 5px;
   background: #0388fc;
+  color: white;
+}
+
+#next-container, #go {
+  border-radius: 5px;
+  padding: 7px 5px 7px 5px;
+  background: #f5f511;
   color: white;
 }
