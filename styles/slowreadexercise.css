@@ -1,3 +1,10 @@
+body {
+  font-family: Arial;
+  background: #FF6347;
+  text-align: center; Tahoma;
+  font-size: 30px;
+}
+
 #text {
   font-weight: bold;
 }
