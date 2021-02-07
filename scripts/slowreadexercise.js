@@ -19,8 +19,7 @@ function addNext() {
 
 function nextPassage(){
   var passages = [
-    "The fox jumped over the fence, the chickens ran away.",
-    "She didn't understand how changed worked. When she looked at today compared to yesterday, there was nothing that she could see that was different. Yet, when she looked at today compared to last year, she couldn't see how anything was ever the same.",
+    "The fox jumped over the fence, the chickens ran away.",,
     "Dave found joy in the daily routine of life. He awoke at the same time, ate the same breakfast and drove the same commute. He worked at a job that never seemed to change and he got home at 6 pm sharp every night. It was who he had been for the last ten years and he had no idea that was all about to change.",
     "It was a nice beautiful day but then it started to rain.",
     "To pass the time Daniel played sports such as soccer and tennis.",
