@@ -15,3 +15,8 @@ mark {
   background: #0388fc;
   color: white;
 }
+
+#card1 {
+  margin-left: 200px;
+  margin-right: 200px;
+}
