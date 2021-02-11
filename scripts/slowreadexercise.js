@@ -22,8 +22,12 @@ function nextPassage(){
     "Dave found joy in the daily routine of life. He awoke at the same time, ate the same breakfast and drove the same commute. He worked at a job that never seemed to change and he got home at 6 pm sharp every night. It was who he had been for the last ten years and he had no idea that was all about to change.",
     "It was a nice beautiful day but then it started to rain.",
     "To pass the time Daniel played sports such as soccer and tennis.",
-    "The red glint of paint sparkled under the sun. He had dreamed of owning this car since he was ten, and that dream had become a reality less than a year ago. It was his baby and he spent hours caring for it, pampering it, and fondling over it. She knew this all too well, and that's exactly why she had taken a sludge hammer to it.",
-    "Out of another, I get a lovely view of the bay and a little private wharf belonging to the estate. There is a beautiful shaded lane that runs down there from the house. I always fancy I see people walking in these numerous paths and arbors, but John has cautioned me not to give way to fancy in the least. He says that with my imaginative power and habit of story-making a nervous weakness like mine is sure to lead to all manner of excited fancies and that I ought to use my will and good sense to check the tendency. So I try."
+    "The peacock is the national bird of India. They have colourful feathers, two legs and a small beak. They are famous for their dance. When a peacock dances it spreads its feathers like a fan. It has a long shiny dark blue neck. Peacocks are mostly found in the fields they are very beautiful birds. The females are known as ‘Peahen1. Their feathers are used for making jackets, purses etc. We can see them in a zoo.",
+    "The stars are tiny points of light in the space. On a clear night we can see around 2,000 to 3,000 stars without using a telescope. Stars look tiny in the sky because they are far away from the Earth. In ancient times the sky watchers found patterns of stars in the sky.These astronauts Neil Armstrong and patterns of people and the creatures from the myths and the legends. As the Earth spins from east to west the stars also appear to cross from east to west. The stars are made up of gases.",
+    "Mount Rushmore known as The Presidents Mountain is located in the Black Hills of South Dakota. Doane Robison thought of
+    the idea to have a stoned carved monument as one way to attract people froom all over the country to come to South Dakota.",
+    "An ice age is a time period when the temperature of the Earth's surface and atmosphere is greatly reduced so that there is a presence
+    or expansion of continental ice sheets, polar ice sheets and alpine glaciers in the southern and northern hemispheres."
   ];
   var random = Math.floor(Math.random() * passages.length);
   var passage = passages[random];
