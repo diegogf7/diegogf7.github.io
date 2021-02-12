@@ -5,16 +5,6 @@ body {
   text-align: center;
 }
 
-#div1, #div3, #div5{
-  font-size: 18px;
-  background: #FFFFFF;
-
-}
-
-#div2, #div4 {
-  font-size: 18px;
-}
-
 #card1, #card2 {
     margin-left: 200px;
     margin-right: 200px;
