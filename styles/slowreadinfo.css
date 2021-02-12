@@ -12,6 +12,6 @@ body {
     box-shadow: 2px 2px 4px #000000;
   }
 
-#span1 {
-  color: yellow;
+#span1, #span2, #span3 {
+  color: orange;
 }
