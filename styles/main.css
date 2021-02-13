@@ -2,13 +2,10 @@ body {
   font-family: Arial;
   background: #FF6347;
   text-align: center; Tahoma;
-  font-size: 30px;
+  font-size: 18px;
+  color: #425466;
 }
 
-#h11 {
-  font-size: 100px;
-  font-weight: 700;
-}
 
 #div1 {
   text-align: center;
