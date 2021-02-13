@@ -1,5 +1,3 @@
-$(document).ready(function(){
-
 const recordAudio = () =>
   new Promise(async resolve => {
     const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
@@ -41,4 +39,3 @@ const handleAction = async () => {
   await sleep(10000);
   actionButton.disabled = false;
   }
-});
