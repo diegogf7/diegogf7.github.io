@@ -3,7 +3,7 @@ body {
   font-size: 18px;
   text-align: center;
   Background: #FF6347;
-  font-size: 32px;
+  font-size: 36px;
 }
 
 #div1 {
@@ -16,5 +16,5 @@ body {
   background: #0388fc;
   color: white;
   height: 50px;
-  width: 50px;
+  width: 100px;
 }
