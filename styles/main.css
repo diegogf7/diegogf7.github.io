@@ -30,3 +30,10 @@ body {
 #span1 {
   color: yellow;
 }
+
+#image1 {
+  max-height: 150px;
+  max-width: 200px;
+  width: 120px;
+  height: 120px;
+}
