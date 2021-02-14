@@ -3,6 +3,7 @@ body {
   background: #FF6347;
   color: black;
   text-align: center;
+  font-size: 18px;
 }
 
 #card1, #card2, #card3, #card4 {
