@@ -6,10 +6,7 @@ body {
 }
 
 #card1, #card2, #card3, #card4 {
-    margin-left: 200px;
-    margin-right: 200px;
-    border-radius: 25px;
-    box-shadow: 2px 2px 4px #000000;
+background: #FFFFFF;
   }
 
 #span1, #span2, #span3, #span4 {
