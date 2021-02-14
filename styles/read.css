@@ -3,7 +3,6 @@ body {
   font-size: 18px;
   text-align: center;
   Background: #FF6347;
-  font-size: 32px
 }
 
 #div1 {
@@ -15,4 +14,14 @@ body {
   padding: 7px 5px 7px 5px;
   background: #0388fc;
   color: white;
+  height: 50px;
+  width: 50px;
+}
+
+#title1 {
+  font-size: 100px;
+}
+
+#text1 {
+  font-size: 100px;
 }
