@@ -8,3 +8,8 @@ body {
 #card1, #card2 {
 background: #FFFFFF;
 }
+
+#card1 {
+  padding-left: 110px;
+  padding-right: 110px;
+}
