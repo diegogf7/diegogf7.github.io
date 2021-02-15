@@ -8,3 +8,8 @@ body {
 #card1, #card2 {
 background: #FFFFFF;
 }
+
+#navbar1 {
+  height: 15vh;
+  width: 100%
+}
