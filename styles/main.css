@@ -24,8 +24,21 @@ body {
   background-position: right;
   background-size: auto;
   background-repeat: no-repeat;
+  text-align: center;
+}
+
+
+#div3 {
+  text-align: center;
+  background-image: url("/images/index-div3.jpg");
+  background-position: left;
+  background-size: auto;
+  background-repeat: no-repeat;
 
 }
+
+
+
 
 #card1 {
   margin-left: 300px;
