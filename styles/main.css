@@ -11,17 +11,18 @@ body {
 
 #div1 {
   text-align: center;
-  /*background-image: url("/images/index-background.jpeg");
+  background-image: url("/images/index-background.jpeg");
   background-position: center;
-  background-size: cover; */
+  background-size: cover;
 }
 
 
 #div2 {
   background: #FFFFFF;
   color: #425466;
-  /* background-image: url("/images/index-div2.jpg");
-  background-position: right; */
+  background-image: url("/images/index-div2.jpg");
+  background-position: right;
+  background-size: auto
 
 }
 
