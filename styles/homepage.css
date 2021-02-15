@@ -7,4 +7,6 @@ body {
 
 #div1 {
   background: #FFFFFF;
+  text-align: right;
+  padding-left: 250px;
 }
