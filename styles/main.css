@@ -20,7 +20,9 @@ body {
 #div2 {
   background: #FFFFFF;
   color: #425466;
-  background-image: url(images/index-div2.jpg);
+  background-image: url("/images/index-div2.jpg");
+  background-position: right;
+  background-size: contain;
 
 }
 
