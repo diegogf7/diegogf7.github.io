@@ -15,6 +15,7 @@ body {
   background-position: center;
   background-size: cover;
   color: #FFFFFF;
+  padding-left: 150px;
 }
 
 
@@ -46,7 +47,7 @@ body {
 
 @media only screen and (margin: 20px) {
   #div1, #div2, #div3 {
-    
+
   }
 }
 
