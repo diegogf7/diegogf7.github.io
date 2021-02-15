@@ -14,6 +14,7 @@ body {
   background-image: url("/images/index-background.jpeg");
   background-position: center;
   background-size: cover;
+  color: #FFFFFF;
 }
 
 
@@ -34,6 +35,7 @@ body {
   background-position: left;
   background-size: auto;
   background-repeat: no-repeat;
+  color: #FFFFFF;
 
 }
 
