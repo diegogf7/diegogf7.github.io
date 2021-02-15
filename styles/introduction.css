@@ -1,6 +1,6 @@
 body {
   font-family: Arial;
-  text-align: right;
+  text-align: left;
   font-size: 18px;
   background: #FF6347;
 }
@@ -11,8 +11,10 @@ background: #FFFFFF;
 
 #card1 {
   padding-left: 250px;
+  padding-right: 250px;
 }
 
 #card2 {
   padding-left: 250px;
+  padding-right: 250px;
 }
