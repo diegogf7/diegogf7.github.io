@@ -11,6 +11,9 @@ body {
 
 #div1 {
   text-align: center;
+  background-image: url(images/index-background.jpeg);
+  background-position: center;
+  background-size: cover;
 }
 
 
