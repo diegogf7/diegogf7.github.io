@@ -39,6 +39,16 @@ body {
 
 }
 
+@media only screen and (opacity: 0.6) {
+  #div3 {
+  }
+}
+
+@media only screen and (margin: 20px) {
+  #div1, #div2, #div3 {
+    
+  }
+}
 
 
 
