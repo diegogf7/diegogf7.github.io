@@ -15,29 +15,19 @@
   <link rel="icon" href="/images/stammr-logo.jpeg">
   </head>
   <body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #ffffff;">
       <div class="container-fluid">
-        <a class="navbar-brand" href="#">Stammer</a>
+        <a class="navbar-brand" href="index.html">Stammer</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
+        <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="index.html">Homepage</a>
-            </li>
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                Strategies
-              </a>
-              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <li><a class="dropdown-item" href="slowreadexercise.html">Slow speech</a></li>
-                <li><hr class="dropdown-divider"></li>
-                <li><a class="dropdown-item" href="#">Support</a></li>
-              </ul>
+              <a class="nav-link active" aria-current="page" href="introduction.html">About</a>
             </li>
             <li class="nav-item">
-
+              <a class="nav-link active" aria-current="page" href="homepage.html">Strategy</a>
             </li>
           </ul>
           <form class="d-flex">
@@ -45,29 +35,44 @@
         </div>
       </div>
     </nav>
-    <br>
 
 
 
 
-    <h1>Slow Speech</h1>
 
 
 
-    <p>Read the following passage at a slow rate following the highlighted word.<p>
-        <label for="speed">Set reading speed in miliseconds (recommended 1500):<br />
-          <input type="text" id="speed" value="1500" />
-        </label><br />
-        <!-- <div id="sim"></div> -->
-        <br>
-        <button type="button" class="btn btn-warning" id="go">Go!</button>
-        <br>
-        <div id="card1">
-          <br>
-            <p id="text">The fox jumped over the fence, the chickens ran away.</p>
-<br>
+      <div class="container-bg-top">
+        <div class="container py-5 text-center">
+          <div class="top">
+            <h1>Slow Speech</h1>
+            <p>Read the following passage at a slow rate following the highlighted word.</p>
+            <label for="speed">Set reading speed in miliseconds (recommended 1500):<br />
+              <input type="text" id="speed" value="1500" />
+              </label>
+          </div>
         </div>
-        <br>
+      </div>
+
+      <button type="button" class="btn btn-warning" id="go">Go!</button>
+
+      <br>
+      <br>
+
+
+        <div class="container-bg-middle">
+          <div class="container py-5 text-center">
+            <div class="middle">
+
+                  <p id="text">The fox jumped over the fence, the chickens ran away.</p>
+
+            </div>
+          </div>
+        </div>
+
+
+        <!-- <div id="sim"></div> -->
+
         <div id="next-container"></div>
 
 

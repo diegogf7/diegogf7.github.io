@@ -6,10 +6,12 @@ body {
   font-size: 18px;
 }
 
-#card1, #card2, #card3, #card4 {
-background: #FFFFFF;
-  }
 
 #span1, #span2, #span3, #span4 {
   color: #f8c133;
+}
+
+
+.container-bg-bottom, .container-bg-middle, .container-bg-top {
+  background: #FFFFFF;
 }

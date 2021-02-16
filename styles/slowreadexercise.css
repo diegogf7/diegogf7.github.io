@@ -16,5 +16,11 @@ mark {
   color: white;
 }
 
-#card1 {
-background: #FFFFFF;
+.container-bg-middle {
+  background: #FFFFFF;
+}
+
+
+.container-bg-top h1 {
+  font-weight: bold;
+}
