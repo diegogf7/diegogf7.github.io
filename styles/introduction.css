@@ -1,11 +1,18 @@
 body {
   font-family: Arial;
-  text-align: left;
-  font-size: 18px;
-  background: #FF6347;
 }
 
-#card1, #card2 {
+.who-is h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.who-is p {
+  color: #425466;
+  font-size: 18px;
+}
+
+/* #card1, #card2 {
 background: #FFFFFF;
 }
 
@@ -17,4 +24,4 @@ background: #FFFFFF;
 #card2 {
   padding-left: 250px;
   padding-right: 250px;
-}
+} */

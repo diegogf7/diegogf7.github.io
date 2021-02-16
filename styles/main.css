@@ -1,27 +1,99 @@
 body {
   font-family: Arial;
+}
+
+.container-bg-top {
   background: #FF6347;
-  text-align: center; Tahoma;
+  /* background-image: url("/images/index-background.jpeg"); */
+  background-image: url("file:///Users/diegogonzalez/Sites/diegogf7.github.io/images/index-background.jpeg");
+  background-position: center;
+  background-size: cover;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.container-bg-middle {
+  background: #ffffff;
+  /* background-image: url("/images/karatekid.jpg"); */
+  background-image: url("file:///Users/diegogonzalez/Sites/diegogf7.github.io/images/panda-clipart-karate.jpg");
+  background-position: 85%;
+  background-size: auto;
+  background-repeat: no-repeat;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.container-bg-bottom {
+  background: #FF6347;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-image: url("file:///Users/diegogonzalez/Sites/diegogf7.github.io/images/book-div3.jpeg");
+  background-position: 25%;
+  background-size: auto;
+  background-repeat: no-repeat;
+  padding-top: 100px;
+  padding-bottom: 100px;
+
+}
+
+.top h1 {
+  font-size: 65px;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.top h3 {
+  color: #ffffff;
+}
+
+.middle {
+  text-align: left;
+}
+
+.middle h2 {
+  /* color: #425466; */
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.middle p {
+  color: #425466;
   font-size: 18px;
 }
 
-#h11 {
+.bottom {
+  text-align: right;
+}
+
+.bottom h2 {
+  color: #ffffff;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.bottom p {
+  color: #ffffff;
+  font-size: 18px;
+}
+
+/* #company-name {
+  color: #ffffff;
   font-size: 100px;
 }
 
-#div1 {
+
+
+/* #div1 {
   text-align: center;
   background-image: url("/images/index-background.jpeg");
   background-position: center;
   background-size: cover;
   color: #FFFFFF;
   line-height: 1.5;
-  padding-left: 200px;
-  padding-right: 200px;
-}
+} */
 
 
-#div2 {
+/* #div2 {
   background: #FFFFFF;
   color: #425466;
   background-image: url("/images/index-div2.jpg");
@@ -71,4 +143,4 @@ body {
 
 #span1 {
   color: yellow;
-}
+} */
