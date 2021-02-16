@@ -15,7 +15,7 @@ body {
 .container-bg-middle {
   background: #ffffff;
   background-image: url("/images/karatekid.jpg");
-  background-image: url("file:///Users/diegogonzalez/Sites/diegogf7.github.io/images/panda-clipart-karate.jpg");
+  /* background-image: url("file:///Users/diegogonzalez/Sites/diegogf7.github.io/images/panda-clipart-karate.jpg"); */
   background-position: 85%;
   background-size: auto;
   background-repeat: no-repeat;
