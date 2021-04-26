@@ -40,7 +40,7 @@ function startWrap(){
   var speed = $('#speed').val();
   //timeStart = $.now();
   var text = $('#text').text();
-  var textArray = text.split("|");
+  var textArray = text.split(" ");
   var textWrap = $('#text');
   var loopCount = 0;
   var arrCount = textArray.length;
