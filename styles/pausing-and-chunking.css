@@ -1,0 +1,17 @@
+body {
+  font-family: Arial;
+  background: #FF6347;
+  color: black;
+  text-align: center;
+  font-size: 18px;
+}
+
+
+#span1, #span2, #span3, #span4 {
+  color: #f8c133;
+}
+
+
+.container-bg-bottom, .container-bg-middle, .container-bg-top {
+  background: #FFFFFF;
+}
