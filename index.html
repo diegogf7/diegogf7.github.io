@@ -14,6 +14,20 @@
 </head>
 <body>
 
+<script type="text/javascript">
+  (function(d, t) {
+      var v = d.createElement(t), s = d.getElementsByTagName(t)[0];
+      v.onload = function() {
+        window.voiceflow.chat.load({
+          verify: { projectID: '669e79840f9ca39d012bd63c' },
+          url: 'https://general-runtime.voiceflow.com',
+          versionID: 'production'
+        });
+      }
+      v.src = "https://cdn.voiceflow.com/widget/bundle.mjs"; v.type = "text/javascript"; s.parentNode.insertBefore(v, s);
+  })(document, 'script');
+</script>
+  
 <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #ffffff;">
   <div class="container-fluid">
     <a class="navbar-brand" href="index.html">Stammer</a>
