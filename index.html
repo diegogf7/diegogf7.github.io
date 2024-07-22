@@ -21,6 +21,11 @@
       display: flex;
       justify-content: center;
       align-items: center;
+      position: relative;
+    }
+    .vf-chat-wrapper {
+      width: 100%;
+      height: 100%;
     }
   </style>
 </head>
@@ -33,7 +38,8 @@
           window.voiceflow.chat.load({
             verify: { projectID: '669e79840f9ca39d012bd63c' },
             url: 'https://general-runtime.voiceflow.com',
-            versionID: 'production'
+            versionID: 'production',
+            containerID: 'voiceflow-container'  // Specify the container to load the chat widget into
           });
         }
         v.src = "https://cdn.voiceflow.com/widget/bundle.mjs"; v.type = "text/javascript"; s.parentNode.insertBefore(v, s);
